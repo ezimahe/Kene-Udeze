@@ -1,0 +1,86 @@
+
+header, footer {
+	background-color: #0E0E0E;
+	padding: 5% 10% 3% 10%;
+	margin: 1%;
+}
+
+.white {
+	color: #FFFFFF;
+}
+#green {
+	color: #09D261;
+}
+.grey {
+	color: #9B9B9B;
+}
+ul {
+	list-style: none;
+	
+}
+li {
+	display: inline;
+	margin-left: -8%;
+	margin-right: 11%;
+}
+u {
+	text-decoration-color: #09D261;
+}
+.proj {
+	width: 100%;
+	margin-top: 4.5%; 
+}
+.bg img:hover {
+	box-shadow: grey;
+	color: grey;
+}
+.bg {
+	background: url(browser-bg.png);
+	background-size: 98%;
+	background-repeat: no-repeat;
+	padding-left: 1px;
+	padding-right: -1px;
+
+
+}
+.project {
+	margin: 5%;
+}
+.contact {
+	text-align: center;
+}
+a{
+	font-size: 14px;
+}
+.mail {
+	font-size: 12px;
+}
+.medium {
+	display: flex;
+}
+.small {
+	font-size: 12px;
+}
+.social-media > div i {
+	font-size: 35px;
+	display: block;
+	float: left;
+	padding: 10px;
+}
+
+.twitter i {
+	color: #55ACEE;
+}
+.dribble i {
+	color: #EA4C89;
+}
+.instagram i {
+	color: #7A50C0;
+}
+.medium i {
+	color: #0BE370;
+}
+
+li i {
+	color: #9B9B9B;
+}
